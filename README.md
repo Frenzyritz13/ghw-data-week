@@ -7,5 +7,5 @@ Ritvi -coach
 
 ### These are the awesome hackers learning Git today!
 
+- Lalit Kumar Sharma
 - Hacker 1
-
