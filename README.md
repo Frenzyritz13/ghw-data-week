@@ -12,5 +12,5 @@ These are the awesome hackers learning Git today!
 - Maruthi
 - Lalit Kumar Sharma
 - Kaushik
-- Ansh
-- GibzB
+- Ansh here
+- GibzB - GHW Attendee 2024
