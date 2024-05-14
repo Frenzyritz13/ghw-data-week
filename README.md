@@ -8,3 +8,4 @@ Ritvi -coach
 ### These are the awesome hackers learning Git today!
 
 - Hacker 1
+-kaushik
