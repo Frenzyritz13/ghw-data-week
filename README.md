@@ -14,3 +14,4 @@ These are the awesome hackers learning Git today!
 - Kaushik
 - Ansh here
 - GibzB - GHW Attendee 2024
+- Timmy
